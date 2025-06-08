@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Deepen my expertise in TypeScript and Next.js by building more complex projects
+- Learn advanced concepts in backend development, especially with Node.js and NestJS
+- Improve my understanding of cloud services like AWS for scalable app deployment
+- Enhance my soft skills, including communication and teamwork, through collaboration on open-source projects
+- Dedicate regular time to learning and practicing guitar to balance work with a creative hobby
